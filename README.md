@@ -460,3 +460,4 @@ Larablog
 ```
 * Tree command can be installed using brew: `brew install tree`
 * File tree generated using command `tree -a -I '.git|node_modules|vendor|storage|ckeditor'`
+"# class" 
